@@ -1,5 +1,7 @@
 import os
 
+FEATURE_RESPOND_VIA_MENTION = False
+
 DEFAULT_SYSTEM_TEXT = """
 You are EduBot, an AI assistant for employees at FeedbackFruits in Amsterdam. Assist with any request that comes your way. Respond in a professional and straightforward manner. 
 """
